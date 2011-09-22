@@ -1,4 +1,3 @@
-0x2008B3EC A __rt_udiv
 0x200C3468 T DrawSoftkey
 0x201B9E1C T lk25_7GetUCSOpacity
 0x201BA5C0 T lk6_GetRestoreDataInContext
@@ -29,6 +28,7 @@
 0x2093E0F6 T RtkStartTimer
 0x2093E436 T RtkStopTimer
 0x209AE98C A ___rt_memcpy
+0x209AEAA0 T _sprintf
 0x209AEAE4 T strncat
 0x20ADBC94 T hmel1_20SendStartMessage_chk
 0x20AF8AE0 T lk25_6SetUCSColorOpacity
@@ -55,6 +55,7 @@
 0x2141AE60 T lk_DisplayMenuBackground
 0x214205F8 T lk_RegFocusChangeCheckFunc
 0x214213DC T lk_get_sofk
+0x21421414 T lk_ifegDecode
 0x21421AD4 T lkoem61_SetKeyLock
 0x21424B94 T lkwdg3_53GetWidgetColor
 0x214B425C T tra1_3trace
@@ -87,10 +88,17 @@
 0x304AE900 D gv_DspMenuInEditor
 0x304AE922 D gs_TransColor
 0x304AEB44 D gs_DspFocus
+0x304AEC3C D ga_GraphicBuffer2
 0x304EB8D6 D gv_ImageTitleIconStart
 0x304EC2AC D vScreenMem
+0x304FF12C D vScreenMem1
+0x30511FAC D vScreenMem2
+0x30524E2C D vScreenMem3
+0x30537CAC D vScreenMem4
 0x3054AB2C D vScreenMem5_Java
 0x3055D9AC D vScreenMem6
+0x3057082C D vScreenMem7
+0x305836AC D vScreenMem8
 0x305A0596 D mmi_quiet_mode_onoff
 0x305A0598 D mmi_vib_on_flag
 0x305A0F67 D gv_sim_icon
