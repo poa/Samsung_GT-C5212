@@ -1,0 +1,17 @@
+# Flash dumps #
+###############
+*.cla
+*.bin
+
+
+# Temporary files #
+###################
+*.bak
+
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
