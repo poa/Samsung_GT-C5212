@@ -3512,6 +3512,7 @@
 0x2062F96C T lk_DestroyMenuMain
 0x2063147C T RequestPostCRC
 0x20631C64 T lk_DisplayIdlePopup
+0x206336FC T lk_DisplayMainMenuBlockUCS
 0x20635F44 T JWare_checkTerminateVM
 0x206366A4 T lk_DisplayReport
 0x20636DB0 T l1a8_33StopRepeatAllocCnf

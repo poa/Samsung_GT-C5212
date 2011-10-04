@@ -115,6 +115,7 @@
 0x304AE922 D gs_TransColor
 0x304AEB44 D gs_DspFocus
 0x304AEC3C D ga_GraphicBuffer2
+0x304CB204 D ga_GraphicBuffer
 0x304EB8D6 D gv_ImageTitleIconStart
 0x304EC2AC D vScreenMem
 0x304FF12C D vScreenMem1
@@ -125,6 +126,7 @@
 0x3055D9AC D vScreenMem6
 0x3057082C D vScreenMem7
 0x305836AC D vScreenMem8
+0x3059BF24 D gs_UcsControlItems
 0x305A0596 D mmi_quiet_mode_onoff
 0x305A0598 D mmi_vib_on_flag
 0x305A05A3 D gv_TextLanguage
