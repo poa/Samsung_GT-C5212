@@ -846,7 +846,10 @@
 0x20189C54 T emcommon3_13EmailReceiveSock
 0x20189C5C T dnr0_0Init
 0x2018A398 T gfs10_1CrtFile
+<<<<<<< HEAD
 0x2018B80C T gfs20_0MkDir
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20192D0C T OpNetProxyHTTPClearSessionHeaders
 0x20195D10 T mmigfs0_16GetVolumeFreeSpaceSize
 0x20196D40 T gmm06_06GmmDetachReq
@@ -1260,6 +1263,10 @@
 0x201ED830 T pb2_IsAlreadyDesignatedGroup
 0x201EE17C T pb2_PBGetIconIndex
 0x201EEFAC T Editor_GetFocusObject
+<<<<<<< HEAD
+=======
+0x201F10B4 T pb_GetIconInfo
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x201F1780 T heci1_3WriteAccess
 0x201F2274 T dir3_DisplayMemoryStatusADN
 0x201F2488 T Fbox3_5SoundFolderSize
@@ -1748,7 +1755,10 @@
 0x20239348 T org_GetDaysYears
 0x20239438 T org1_2strtok
 0x20239B48 T fm3_SetRecordStatus
+<<<<<<< HEAD
 0x20239B54 T set_GetIconInfo
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20239F4C T wap6_2AutoWapSetting_ZA
 0x2023A1B0 T gaudio6_2CheckPathConfig
 0x2023A1D8 T tra1_23TraceApplFunction3
@@ -1767,8 +1777,11 @@
 0x2023F168 T hen2_11PlugOutMobileOnUnplugged
 0x2023F170 T uc4_27MoveToLastOffset
 0x2023F50C T smsr08_26ResponseTimeout
+<<<<<<< HEAD
 0x2023F668 T ucs2_33ReadThemeBackground
 0x2023F780 T ucs2_5GetCurThemeName
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x202402D8 T upv0_110AllGsmFormatsToPCCFormat
 0x20240400 T upv0_1BuildFsmMessage
 0x20240438 T upv0_2BuildSpvMessage
@@ -3299,9 +3312,13 @@
 0x205FD5D4 T gfl02_01Fclose
 0x205FD624 T gfl02_02Fopen
 0x205FF290 T tfs4_readdir_stat
+<<<<<<< HEAD
 0x20602618 T gfs30_28MkPrsDirPath
 0x20604578 T BtHfg128_12HfgSendHfgServiceConnectInd
 0x206059EC T gfs41_DB_0GetNextDefEtrNm
+=======
+0x20604578 T BtHfg128_12HfgSendHfgServiceConnectInd
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x206070AC T gmm01_01GmmInitReq
 0x20607208 T gmm02_01GmmUpdateProcReq
 0x20607340 T gmm02_05GmmResetReq
@@ -3509,10 +3526,15 @@
 0x2062E678 T lk6_look_focus_destroy
 0x2062E6E4 T lk6_look_user_restore
 0x2062F610 T lk_CheckFocusItemImagebox
+<<<<<<< HEAD
 0x2062F96C T lk_DestroyMenuMain
 0x2063147C T RequestPostCRC
 0x20631C64 T lk_DisplayIdlePopup
 0x206336FC T lk_DisplayMainMenuBlockUCS
+=======
+0x2063147C T RequestPostCRC
+0x20631C64 T lk_DisplayIdlePopup
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20635F44 T JWare_checkTerminateVM
 0x206366A4 T lk_DisplayReport
 0x20636DB0 T l1a8_33StopRepeatAllocCnf
@@ -4150,7 +4172,10 @@
 0x206C4E00 T uc2_174MovePageCursorFunc
 0x206C5B8C T uc4_46IsSameMediaType
 0x206C5D54 T OPSsk_ASN1_TYPE_sort
+<<<<<<< HEAD
 0x206C5FDC T ucs1_1MoveMain
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x206C6050 T OPSsk_X509_REVOKED_value
 0x206C6058 T look_GetIconInfo
 0x206C60AC T Sbdmrtk_EnableUsbIsr
@@ -5577,7 +5602,10 @@
 0x20963644 T _sys_flen
 0x209638EC T ftell
 0x20963928 A __rt_stackheap_init
+<<<<<<< HEAD
 0x209639BC A __rt_heap_extend
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20963A80 T _ttywrch
 0x209670C0 A PDCU1_02SetSleep
 0x209672C4 A SCC_GetIDCode
@@ -6003,7 +6031,10 @@
 0x20A28884 T cal4_2GetCallId
 0x20A28970 T cal4_CountCallInState
 0x20A28CB8 T OPSsk_X509_LOOKUP_new_null
+<<<<<<< HEAD
 0x20A29C24 T set_GetImageInfoBin
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20A2B73C T emit_raw__15BinaryAssemblerFi
 0x20A2C53C T camcorder0_7VideoModeFocusTypeSpin
 0x20A2CABC T camcorder3_IsCamcorderRecord
@@ -6376,8 +6407,11 @@
 0x20A89968 T lk1_3root_fsm
 0x20A89D4C T sms2_57CtrlMsgIcon
 0x20A8BCE0 T VM_ClearOffScreenBuffer
+<<<<<<< HEAD
 0x20A8CFE8 T lk25_41GetUCS3Brightness
 0x20A8D0DC T lk25_43GetUCS3FontType
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20A8D1C0 T lk25_5GetUCSColor
 0x20A8D1CC T lk25_7GetUCSOpacity
 0x20A8D27C T lk2_30SaveMessage
@@ -6441,8 +6475,13 @@
 0x20A98088 T lk_get_Debug_sofk
 0x20A9809C T lk_get_image_frame_info
 0x20A981BC T lkcore30_IsAutoPowerOn
+<<<<<<< HEAD
 0x20A981C4 T lkcore30_IsBGMFlagOn
 0x20A981CC T lkcore30_IsRadioBGOn
+=======
+0x20A981C4 T OPSsk_X509_NAME_pop
+0x20A981CC T OPSsk_X509_NAME_sort
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20A98430 T mp3_OSDUpdateStatus
 0x20A98488 T lkoem11_SoundStop
 0x20A9849C T lkoem26_CommonBinaryCheckOption
@@ -6452,7 +6491,10 @@
 0x20A9915C T lkwdg08_DisplayIndicator
 0x20A99AAC T lkwdg08_SetIndicator
 0x20A9A2F0 T lkwdg11_200DispalyIdleClockTheme
+<<<<<<< HEAD
 0x20A9A90C T lkwdg3_30CopyUcsStruct
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20A9A930 T lkwdg3_48GetCurThemeIndex
 0x20A9A93C T ll01_11SuspendReq
 0x20A9A990 T ll02_08SendUFrame
@@ -6839,7 +6881,11 @@
 0x20AF56B8 T set2_91FboxVideosMemoryFocus
 0x20AF5730 T set2_71MMSMemoryFocus
 0x20AF5748 T set2_78MMSInboxMemoryFocus
+<<<<<<< HEAD
 0x20AF5760 T set_GetImageInfoOgm
+=======
+0x20AF5760 T set_GetIconInfo
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20AF5808 T CompilerGetScriptFlags
 0x20AF59BC T OPSsk_X509_ATTRIBUTE_delete_ptr
 0x20AF6390 T set2_83EmailInboxMemoryFocus
@@ -7059,8 +7105,11 @@
 0x20B207E0 T uacm2_finaltest
 0x20B21740 T uc1_90ProcessInsertPage
 0x20B224D8 T upi_DiscardAnimation
+<<<<<<< HEAD
 0x20B22BD0 T ucs2_32MakeMenuBackground
 0x20B22CE4 T ucs2_3GetTheme
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20B22DD0 T ui_AnalyseEntry
 0x20B231EC T dir1_4SendRestrictionReq
 0x20B2320C T M4OSA_SysolSocketNotifyError
@@ -7415,7 +7464,10 @@
 0x20C902E4 T spc1_95UserAlerting
 0x20C912EC M mcc_wap_add_menu_stack_file_save
 0x20C91C9C M mcc_fbox_videos
+<<<<<<< HEAD
 0x20C9266C M mcc_fbox_connect_usb
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20C942B0 M mcc_expl_folder_option
 0x20C94650 M mcc_expl_sound_option
 0x20C947C0 M mcc_expl_video_playlist_view
@@ -8678,6 +8730,10 @@
 0x20EFE2C0 T lk_DisplayImageUser
 0x20EFEA48 T lk_DisplayMenuBackground
 0x20EFEC9C T wcr4_155MMCObjReadCBFctp0b2ap0
+<<<<<<< HEAD
+=======
+0x20EFF928 T lk_DisplayRoundBoxScreen
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20EFF9D0 T QueueReadUnBlock
 0x20F00570 T lk_DrawBoxScreen
 0x20F00854 T lk_GetDspTextExtInfo
@@ -8686,7 +8742,10 @@
 0x20F00CF4 T lk_GetMenuNormal2Line
 0x20F00E04 T lk_GetMenuNormal1Line
 0x20F00F38 T lk_GetNbTextLines
+<<<<<<< HEAD
 0x20F01068 T lk_GetRememberMenuIndex
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x20F01498 T lk_IsReturnMenu
 0x20F029CC T lk_MakeTransparentScreenColor
 0x20F02ADC T sms3_02SmsDeleteMsgFromMenuTable
@@ -11259,7 +11318,10 @@
 0x2135F388 T imdsp50_06DspFrameTreatment
 0x2135F78C T lint01_15SetContentStruct
 0x2135F910 T rrm63_07UpdCtxBadNearCell
+<<<<<<< HEAD
 0x21360194 T lk25_42GetUCS3Opacity
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x21360288 T lk25_6SetUCSColorOpacity
 0x213602A4 T lk25_8GetUCSColorReverse
 0x21360720 T lk25_9GetUCSTextStyle
@@ -11308,7 +11370,10 @@
 0x21368DA4 T Java_javax_microedition_lcdui_ChoiceGroup_getPopupSelection
 0x21368DAC T lkcore30_IsMusicStudioCondition
 0x21368DE0 T Java_com_samsung_util_LCDLight_off
+<<<<<<< HEAD
 0x21368DF0 T lkcore30_IsRadioOn
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x21368DF8 T T9GetWordLen
 0x21369544 T lkoem31_SetLcdInvalidateLevel
 0x21369550 T lkoem61_SetKeyBoard
@@ -11317,7 +11382,10 @@
 0x2136B8C4 T lkwdg09_RegisterEditor
 0x2136B954 T lkwdg11_195ResetIdleClockTime
 0x2136B970 T lkwdg11_199DisplayIdleClockFuncAsSEG
+<<<<<<< HEAD
 0x2136C734 T lkwdg3_40GetUcsStruct
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x2136C74C T lkwdg3_50GetAnimationIconType
 0x2136C758 T ll01_01AssignReq
 0x2136CF40 T ll01_09ResetDetection
@@ -11989,8 +12057,11 @@
 0x21415954 T T9HandleEvent
 0x21415CFC T IrlapDataIndication
 0x21415D30 T tat71_38AccLoopON
+<<<<<<< HEAD
 0x214164B4 T ucs2_2ChangeCurrentTheme
 0x214164D0 T set_GetIconInfo
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x21416588 T DeleteMelodyAcknowledge
 0x21416704 T spa2_23SendMsgMapiMeaGetDirectorySizeReq
 0x21416E30 T upv0_101GetNumberOfRecords
@@ -13642,7 +13713,10 @@
 0x218032CC T lint01_13MsDRXParameter
 0x218037CC T lint03_06Put1to32BitsWithoutCheck
 0x21803838 T lk1_4idle_screen
+<<<<<<< HEAD
 0x218051FC T lk25_40GetUCS3Color
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x218052C4 T lk2_10init_mmi_root_fsm
 0x21805320 T lk2_GetMMITraceLevel
 0x21805350 T lk2_GetTimer
@@ -13658,7 +13732,10 @@
 0x218061A8 T lk_AddFocus
 0x21806348 T lk_AddFocusItem
 0x21806CF4 T spa1_231TestToRescueError
+<<<<<<< HEAD
 0x21806D5C T lk_CheckRememberMenuIndex
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x21807200 T lk_DestroyFocus
 0x2180753C T Reg_Draw_Ind_Title
 0x21807558 T lk_DisplayFMRadioMiniPlayer
@@ -13691,9 +13768,14 @@
 0x2180F970 T lk_SetSoftkeyBgType
 0x2180F9A8 T lk_Settings_SelectionList_Focus
 0x2180F9C4 T lk_StopTimer
+<<<<<<< HEAD
 0x2180FC84 T lk_ifegDecode
 0x2180FEE4 T SafeFreeMID_
 0x2180FEEC T lkcore30_IsBGMPlaying
+=======
+0x2180FEE4 T SafeFreeMID_
+0x2180FEEC T SafeLockMIDAcrossAllocate_
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x21810098 T lkdbg_GetServiceGroupName
 0x218101E4 T lkoem01_CheckMemory
 0x218105C0 T lkoem21_ReadNvBlock
@@ -14068,6 +14150,10 @@
 0x21877D14 T set2_88SharedEmailMemoryFocus
 0x21877D2C T set2_92FboxMusicMemoryFocus
 0x21877D44 T set2_7Get_Greetmsg
+<<<<<<< HEAD
+=======
+0x21877D6C T set_GetImageInfoOgm
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x21878538 T set2_93FboxSoundsMemoryFocus
 0x21878550 T set1_11LangDefault
 0x218785E8 T set2_96FboxImagesDLImagesMemoryFocus
@@ -14796,12 +14882,16 @@
 0x30471619 D gv_ed_Loopback_Test
 0x3047161B D gv_Vib_Test_Mode_Test
 0x30471626 D gv_KeyInfo
+<<<<<<< HEAD
 0x30471627 D gv_KeyToneKeyInfo
 0x30472044 D gv_PhoneClosedFlag
 0x304BDB26 D gv_EasyLoading
 0x304BDB28 D gv_Atp_ConnectedState
 0x304BDB29 D gv_SOSMessage_Onoff
 0x304BDB2A D gv_SOSMessages_key_count
+=======
+0x30472044 D gv_PhoneClosedFlag
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x304BDB2B D gv_SOSMessage_wait_call_status
 0x304BDB2C D gv_NoSimMode
 0x304BDB34 D gs_look
@@ -14857,10 +14947,18 @@
 0x3053BFDC D gs_IdlePopup
 0x3053C2FA D gs_IdleCalendar
 0x3053C6AC D vScreenMem
+<<<<<<< HEAD
 0x305F02DC D LcdPattern
 0x305F02DD D gv_IdleClockIndex
 0x305F02E8 D gs_IdleClock
 0x305F0320 D gs_UcsControlItems
+=======
+0x3059AF2C D vScreenMem5_Java
+0x305ADDAC D vScreenMem6
+0x305F02DC D LcdPattern
+0x305F02DD D gv_IdleClockIndex
+0x305F02E8 D gs_IdleClock
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x305F06FC D gv_InCharge
 0x305F06FD D gv_LowBattery
 0x305F06FE D gv_BatLevel
@@ -14899,7 +14997,10 @@
 0x305F197C D gs_WallpaperMain
 0x305F33AC D SetDialingFont
 0x305F33BA D SetDialingFontTemp
+<<<<<<< HEAD
 0x305F45D8 D gs_UcsWizardControlItems
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x306213C4 D DspExecFsfeReq
 0x3062157E D DspExecFsstReq
 0x3062161C D DspExecCmgwReq
@@ -14907,7 +15008,10 @@
 0x30628D71 D gv_CurrentSim_IsSlave
 0x30628D76 D gv_BookmarkNumber
 0x3062B44C D mbl_wap_state
+<<<<<<< HEAD
 0x3062B480 D gv_VrProgress
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x3062B4E1 D ga_AmrPath
 0x3062DB5F D DateFormat
 0x3062DB60 D TimeFormat
@@ -14918,7 +15022,10 @@
 0x30663F64 D gv_AvailFile
 0x30663F94 D ga_FileName
 0x30663FC9 D ga_SelectedDirectoryFullPath
+<<<<<<< HEAD
 0x30664ABA D ga_SavedVoiceName
+=======
+>>>>>>> parent of bc91d93... Updates from Alex&r for C5212XEIB5.sym
 0x30664FD4 D gv_GfsError
 0x30664FD8 D gst_ExplStatus
 0x30669F00 D iJTrace
