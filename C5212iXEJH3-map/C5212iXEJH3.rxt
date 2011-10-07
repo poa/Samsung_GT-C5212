@@ -1,200 +1,200 @@
 <bin name="C5212iXEJH3.cla" size="29031180" idofs="0x019C2704" id="C5212iXEJH3" mode="D500" base="0x20000000" deflang="2" version="1.0" crc="8B95A6FF">
  <cfg freestart="0x1BB0000" freeend="0x1BFFFFF">
 
- <keybind title="Ð¤ÑƒÐ½ÐºÑ†Ð¸Ð¸ ÐºÐ½Ð¾Ð¿Ð¾Ðº" keys="Green=0x01415738,L-Soft=0x01415758,OK=0x01415BCC,SIM-Select=0x01415BD0,1-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ=0x00118C1C,2-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D9764,3-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D9768,4-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D976C,5-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D9770,6-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D9774,7-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D9778,8-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D977C,9-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ(Ð¿Ð°Ñ‚Ñ‡)=0x007D9780,*-Ð£Ð´ÐµÑ€Ð¶Ð°Ð½Ð¸Ðµ=0x00119028" values="Ð“Ð»Ð°Ð²Ð½Ð¾Ðµ Ð¼ÐµÐ½ÑŽ=0x210D76F8,Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² (ÐœÐµÐ½ÑŽ)=0x20C831B4,Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² - Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ðµ=0x2071751C,Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² - Ð¿Ñ€Ð¾Ð¿ÑƒÑ‰ÐµÐ½Ð½Ñ‹Ðµ=0x2197EF94,Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² - Ð¸ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ðµ=0x2197F0C4,Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² - Ð²Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ=0x2197F1E4,Ð–ÑƒÑ€Ð½Ð°Ð» Ð·Ð²Ð¾Ð½ÐºÐ¾Ð² - Ð§Ñ‘Ñ€Ð½Ñ‹Ð¹ ÑÐ¿Ð¸ÑÐ¾Ðº=0x20BBE564,Ð”Ð¸ÑÐ¿ÐµÑ‚Ñ‡ÐµÑ€ Ð²Ñ‹Ð·Ð¾Ð²Ð¾Ð²=0x202FAB5C,ÐšÐ¾Ð½Ñ‚Ð°ÐºÑ‚Ñ‹=0x21054280,MP3 ÐŸÐ»ÐµÐµÑ€=0x20BD109C,Ð˜Ð½Ñ‚ÐµÑ€Ð½ÐµÑ‚=0x203278F8,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ=0x20331928,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸=0x21A5ED2C,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - ÐžÑ‡Ð¸ÑÑ‚Ð¸Ñ‚ÑŒ Ð¿Ð°Ð¿ÐºÐ¸=0x2165A1D8,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - ÐœÐ¾Ð¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ=0x20331CD8,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð’Ñ…Ð¾Ð´ÑÑ‰Ð¸Ðµ=0x21657868,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð˜ÑÑ…Ð¾Ð´ÑÑ‰Ð¸Ðµ=0x216578D8,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - ÐžÑ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð½Ñ‹Ðµ=0x216579D8,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð§ÐµÑ€Ð½Ð¾Ð²Ð¸ÐºÐ¸=0x21657958,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð¨Ð°Ð±Ð»Ð¾Ð½Ñ‹=0x20331F58,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - ÐœÐ¾Ñ Ð¿Ð°Ð¿ÐºÐ°=0x21657A58,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð¡Ð¾Ð·Ð´Ð°Ñ‚ÑŒ=0x20D3E64C,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð¡Ð¾ÑÑ‚Ð¾ÑÐ½Ð¸Ðµ Ð¿Ð°Ð¼ÑÑ‚Ð¸=0x21A408CC,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ - Ð­ÐºÑÑ‚Ñ€ÐµÐ½Ð½Ñ‹Ðµ=0x20D3F37C,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ ÑÐµÑ‚Ð¸=0x215554F4,Ð¡Ð¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ ÑÐµÑ‚Ð¸ - Ð§Ñ‚ÐµÐ½Ð¸Ðµ=0x20C87608,ÐœÐ¾Ð¸ Ñ„Ð°Ð¹Ð»Ñ‹=0x20337E10,ÐžÑ€Ð³Ð°Ð½Ð°Ð¹Ð·ÐµÑ€ (ÐœÐµÐ½ÑŽ)=0x20BB2D04,ÐšÐ°Ð»ÐµÐ½Ð´Ð°Ñ€ÑŒ=0x20282D1C,Ð—Ð°Ð¼ÐµÑ‚ÐºÐ¸=0x20D69864,Ð—Ð°Ð´Ð°Ñ‡Ð°=0x20BB49F4,ÐœÐ¸Ñ€Ð¾Ð²Ð¾Ðµ Ð²Ñ€ÐµÐ¼Ñ=0x20D3CA8C,ÐšÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€=0x21A5BB84,ÐšÐ¾Ð½Ð²ÐµÑ€Ñ‚ÐµÑ€=0x207EA17C,ÐšÐ°Ð¼ÐµÑ€Ð°=0x20299AB8,FM-Ñ€Ð°Ð´Ð¸Ð¾=0x20C343C4,ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ (ÐœÐµÐ½ÑŽ)=0x211D9E2C,Ð¤Ð¾Ñ‚Ð¾Ñ€ÐµÐ´Ð°ÐºÑ‚Ð¾Ñ€=0x21073FE0,Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ñ Ð·Ð°ÑÑ‚Ð°Ð²ÐºÐ¾Ð¹=0x216AB120,Ð¡Ð»Ð¾Ð²Ð°Ñ€ÑŒ Ð±ÐµÐ· Ð·Ð°ÑÑ‚Ð°Ð²ÐºÐ¸=0x216AB180,Ð˜Ð³Ñ€Ñ‹ Ð¸ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ=0x211F0D28,Ð”Ð¸ÐºÑ‚Ð¾Ñ„Ð¾Ð½=0x207E7F6C,BlueTooth ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ=0x219BA108,BlueTooth ÐÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ/Ð”ÐµÐ°ÐºÑ‚Ð¸Ð²Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ=0x207FA95C,BlueTooth ÐœÐ¾Ð¸ ÑƒÑÑ‚Ñ€Ð¾Ð¹ÑÑ‚Ð²Ð°=0x20742E5C,Bluetooth ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸=0x20BFD680,BlueTooth Ð¡Ð¿Ð¸ÑÐ¾Ðº ÑƒÑÐ»ÑƒÐ³=0x2109559C,Ð¢Ð°Ð¹Ð¼ÐµÑ€=0x20D3CD8C,Ð¡ÐµÐºÑƒÐ½Ð´Ð¾Ð¼ÐµÑ€=0x207ED0D0,Ð‘ÑƒÐ´Ð¸Ð»ÑŒÐ½Ð¸Ðº=0x20D3BD1C,ÐÐ°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ (ÐœÐµÐ½ÑŽ)=0x2163CC84,ÐÐ°ÑÑ‚Ñ€. Ð”Ð¸ÑÐ¿ÐµÑ‚Ñ‡ÐµÑ€ ÑÐ¸Ð¼-ÐºÐ°Ñ€Ñ‚=0x211B4660,ÐÐ°ÑÑ‚Ñ€. ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸=0x203103CC,ÐÐ°ÑÑ‚Ñ€. Ð”Ð¸ÑÐ¿Ð»ÐµÐ¹ Ð¸ Ð¿Ð¾Ð´ÑÐ²ÐµÑ‚ÐºÐ°=0x20D24FB0,ÐÐ°ÑÑ‚Ñ€. Ð¯Ñ€ÐºÐ¾ÑÑ‚ÑŒ Ð´Ð¸ÑÐ¿Ð»ÐµÑ=0x21639194,ÐÐ°ÑÑ‚Ñ€. Ð’Ñ€ÐµÐ¼Ñ Ð¸ Ð´Ð°Ñ‚Ð°=0x211DBCFC,ÐÐ°ÑÑ‚Ñ€. Ð¢ÐµÐ»ÐµÑ„Ð¾Ð½=0x21A425A0,ÐÐ°ÑÑ‚Ñ€. ÐŸÑ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ=0x211B6DA8,ÐÐ°ÑÑ‚Ñ€. Ð‘ÐµÐ·Ð¾Ð¿Ð°ÑÐ½Ð¾ÑÑ‚ÑŒ=0x2030E3FC,ÐÐ°ÑÑ‚Ñ€. Ð¡ÐµÑ‚ÑŒ=0x207CBB28,ÐÐ°ÑÑ‚Ñ€. ÐŸÐ¾Ð´ÐºÐ»ÑŽÑ‡ÐµÐ½Ð¸Ðµ Ðº ÐŸÐš=0x211B6B00,ÐÐ°ÑÑ‚Ñ€. ÐŸÐ°Ð¼ÑÑ‚ÑŒ=0x21639418,Ð“Ð¾Ð»Ð¾ÑÐ¾Ð²Ð°Ñ Ð¿Ð¾Ñ‡Ñ‚Ð°=0x20295034,Ð‘Ð»Ð¾Ðº.ÐºÐ»Ð°Ð²Ð¸Ð°Ñ‚ÑƒÑ€Ñ‹=0x2079A3F0,Ð‘ÐµÑÑˆÑƒÐ¼Ð½Ñ‹Ð¹ Ñ€ÐµÐ¶Ð¸Ð¼ Ð²ÐºÐ»/Ð²Ñ‹ÐºÐ»=0x211B647C,Ð¡Ð²ÐµÐ´ÐµÐ½Ð¸Ñ Ð¾ Ñ‚ÐµÐ»ÐµÑ„Ð¾Ð½Ðµ=0x2031225C,ÐŸÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ°=0x20D22524,2:9-(Ð¾ÑÑ‚Ð°Ð²Ð¸Ñ‚ÑŒ Ð±Ñ‹ÑÑ‚Ñ€Ñ‹Ð¹ Ð½Ð°Ð±Ð¾Ñ€)=0xFFFFFFFF,ÐÐµÑ‚ Ð´ÐµÐ¹ÑÑ‚Ð²Ð¸Ñ=0x00000000,Ð¤Ð¾Ð½Ð°Ñ€ÑŒ(Ð½ÑƒÐ¶ÐµÐ½ Ð¿Ð°Ñ‚Ñ‡)=0x207F8B48,Talker (Ð½ÑƒÐ¶ÐµÐ½ Ð¿Ð°Ñ‚Ñ‡)=0x207F6B70,Ð­ÐºÑÑ‚Ñ€Ð°-Ð¸Ð½Ñ„Ð¾ (Ð½ÑƒÐ¶ÐµÐ½ Ð¿Ð°Ñ‚Ñ‡)=0x207FAABC" >
+ <keybind title="Ôóíêöèè êíîïîê" keys="Green=0x01415738,L-Soft=0x01415758,OK=0x01415BCC,SIM-Select=0x01415BD0,1-Óäåðæàíèå=0x00118C1C,2-Óäåðæàíèå(ïàò÷)=0x007D9764,3-Óäåðæàíèå(ïàò÷)=0x007D9768,4-Óäåðæàíèå(ïàò÷)=0x007D976C,5-Óäåðæàíèå(ïàò÷)=0x007D9770,6-Óäåðæàíèå(ïàò÷)=0x007D9774,7-Óäåðæàíèå(ïàò÷)=0x007D9778,8-Óäåðæàíèå(ïàò÷)=0x007D977C,9-Óäåðæàíèå(ïàò÷)=0x007D9780,*-Óäåðæàíèå=0x00119028" values="Ãëàâíîå ìåíþ=0x210D76F8,Æóðíàë çâîíêîâ (Ìåíþ)=0x20C831B4,Æóðíàë çâîíêîâ - ïîñëåäíèå=0x2071751C,Æóðíàë çâîíêîâ - ïðîïóùåííûå=0x2197EF94,Æóðíàë çâîíêîâ - èñõîäÿùèå=0x2197F0C4,Æóðíàë çâîíêîâ - âõîäÿùèå=0x2197F1E4,Æóðíàë çâîíêîâ - ×¸ðíûé ñïèñîê=0x20BBE564,Äèñïåò÷åð âûçîâîâ=0x202FAB5C,Êîíòàêòû=0x21054280,MP3 Ïëååð=0x20BD109C,Èíòåðíåò=0x203278F8,Ñîîáùåíèÿ=0x20331928,Ñîîáùåíèÿ - Íàñòðîéêè=0x21A5ED2C,Ñîîáùåíèÿ - Î÷èñòèòü ïàïêè=0x2165A1D8,Ñîîáùåíèÿ - Ìîè ñîîáùåíèÿ=0x20331CD8,Ñîîáùåíèÿ - Âõîäÿùèå=0x21657868,Ñîîáùåíèÿ - Èñõîäÿùèå=0x216578D8,Ñîîáùåíèÿ - Îòïðàâëåííûå=0x216579D8,Ñîîáùåíèÿ - ×åðíîâèêè=0x21657958,Ñîîáùåíèÿ - Øàáëîíû=0x20331F58,Ñîîáùåíèÿ - Ìîÿ ïàïêà=0x21657A58,Ñîîáùåíèÿ - Ñîçäàòü=0x20D3E64C,Ñîîáùåíèÿ - Ñîñòîÿíèå ïàìÿòè=0x21A408CC,Ñîîáùåíèÿ - Ýêñòðåííûå=0x20D3F37C,Ñîîáùåíèÿ ñåòè=0x215554F4,Ñîîáùåíèÿ ñåòè - ×òåíèå=0x20C87608,Ìîè ôàéëû=0x20337E10,Îðãàíàéçåð (Ìåíþ)=0x20BB2D04,Êàëåíäàðü=0x20282D1C,Çàìåòêè=0x20D69864,Çàäà÷à=0x20BB49F4,Ìèðîâîå âðåìÿ=0x20D3CA8C,Êàëüêóëÿòîð=0x21A5BB84,Êîíâåðòåð=0x207EA17C,Êàìåðà=0x20299AB8,FM-ðàäèî=0x20C343C4,Ïðèëîæåíèÿ (Ìåíþ)=0x211D9E2C,Ôîòîðåäàêòîð=0x21073FE0,Ñëîâàðü ñ çàñòàâêîé=0x216AB120,Ñëîâàðü áåç çàñòàâêè=0x216AB180,Èãðû è ïðèëîæåíèÿ=0x211F0D28,Äèêòîôîí=0x207E7F6C,BlueTooth Àêòèâèðîâàòü=0x219BA108,BlueTooth Àêòèâèðîâàòü/Äåàêòèâèðîâàòü=0x207FA95C,BlueTooth Ìîè óñòðîéñòâà=0x20742E5C,Bluetooth Íàñòðîéêè=0x20BFD680,BlueTooth Ñïèñîê óñëóã=0x2109559C,Òàéìåð=0x20D3CD8C,Ñåêóíäîìåð=0x207ED0D0,Áóäèëüíèê=0x20D3BD1C,Íàñòðîéêè (Ìåíþ)=0x2163CC84,Íàñòð. Äèñïåò÷åð ñèì-êàðò=0x211B4660,Íàñòð. Ïðîôèëè=0x203103CC,Íàñòð. Äèñïëåé è ïîäñâåòêà=0x20D24FB0,Íàñòð. ßðêîñòü äèñïëåÿ=0x21639194,Íàñòð. Âðåìÿ è äàòà=0x211DBCFC,Íàñòð. Òåëåôîí=0x21A425A0,Íàñòð. Ïðèëîæåíèÿ=0x211B6DA8,Íàñòð. Áåçîïàñíîñòü=0x2030E3FC,Íàñòð. Ñåòü=0x207CBB28,Íàñòð. Ïîäêëþ÷åíèå ê ÏÊ=0x211B6B00,Íàñòð. Ïàìÿòü=0x21639418,Ãîëîñîâàÿ ïî÷òà=0x20295034,Áëîê.êëàâèàòóðû=0x2079A3F0,Áåñøóìíûé ðåæèì âêë/âûêë=0x211B647C,Ñâåäåíèÿ î òåëåôîíå=0x2031225C,Ïåðåçàãðóçêà=0x20D22524,2:9-(îñòàâèòü áûñòðûé íàáîð)=0xFFFFFFFF,Íåò äåéñòâèÿ=0x00000000,Ôîíàðü(íóæåí ïàò÷)=0x207F8B48,Talker (íóæåí ïàò÷)=0x207F6B70,Ýêñòðà-èíôî (íóæåí ïàò÷)=0x207FAABC" >
 
- <fonttable title="Ð¨Ñ€Ð¸Ñ„Ñ‚Ñ‹ (Ð¿Ñ€Ð¸ Ð½Ð°Ð±Ð¾Ñ€Ðµ Ð½Ð¾Ð¼ÐµÑ€Ð°)" ofs="0x1633858" heightofs="0x1635EC5" reclen="4" count="6">
- <fonttable title="Ð¨Ñ€Ð¸Ñ„Ñ‚Ñ‹ ÐµÑ‰Ñ‘" ofs="0x16338C8" heightofs="0x1635ECC" reclen="4" count="2">
- <fonttable title="Ð¨Ñ€Ð¸Ñ„Ñ‚ Ð´Ð»Ñ Ñ‡Ð°ÑÐ¾Ð² Ð½Ð° Ð¸Ð½Ñ„Ð¾Ð¿Ð¾Ð»Ð¾ÑÐµ" ofs="0x16338E8" heightofs="0x1635ECE" reclen="4" count="1">
+ <fonttable title="Øðèôòû (ïðè íàáîðå íîìåðà)" ofs="0x1633858" heightofs="0x1635EC5" reclen="4" count="6">
+ <fonttable title="Øðèôòû åù¸" ofs="0x16338C8" heightofs="0x1635ECC" reclen="4" count="2">
+ <fonttable title="Øðèôò äëÿ ÷àñîâ íà èíôîïîëîñå" ofs="0x16338E8" heightofs="0x1635ECE" reclen="4" count="1">
 
- <langlist title="ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ñ Ð¾Ð¿ÐµÑ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð²" ofs="0xD1AACC" reclen="12" ofsptr="0" count="511">
- <langtable title="Ð¯Ð·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ€ÐµÑÑƒÑ€ÑÑ‹ Ð¼ÐµÐ½ÑŽ" ofs="0x10DCD7C" type="main" count="13" items1="0" forceutf="1">
+ <langlist title="Íàçâàíèÿ îïåðàòîðîâ" ofs="0xD1AACC" reclen="12" ofsptr="0" count="511">
+ <langtable title="ßçûêîâûå ðåñóðñû ìåíþ" ofs="0x10DCD7C" type="main" count="13" items1="0" forceutf="1">
   <lang index="0" title="Deutsch">
   <lang index="1" title="English">
   <lang index="2" title="Francais">
-  <lang index="3" title="Ð ÑƒÑÑÐºÐ¸Ð¹">
+  <lang index="3" title="Ðóññêèé">
   <lang index="4" title="Eesti">
   <lang index="5" title="Latviesu">
   <lang index="6" title="Lietuviu">
-  <lang index="7" title="Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°">
+  <lang index="7" title="Óêðà¿íñüêà">
   <lang index="8" title="Romana">
-  <lang index="9" title="ÐšÐ°Ð·Ð°Ñ…">
+  <lang index="9" title="Êàçàõ">
   <lang index="10" title="1">
   <lang index="11" title="2">
   <lang index="12" title="3">
  </langtable>
- <langtable title="Ð¯Ð·Ñ‹ÐºÐ¾Ð²Ñ‹Ðµ Ñ€ÐµÑÑƒÑ€ÑÑ‹ ÑÐ¾Ñ„Ñ‚ Ð¿Ð¾Ð»Ð¾ÑÑ‹" ofs="0x10DCDB0" type="keys" count="13">
+ <langtable title="ßçûêîâûå ðåñóðñû ñîôò ïîëîñû" ofs="0x10DCDB0" type="keys" count="13">
   <lang index="0" title="Deutsch">
   <lang index="1" title="English">
   <lang index="2" title="Francais">
-  <lang index="3" title="Ð ÑƒÑÑÐºÐ¸Ð¹">
+  <lang index="3" title="Ðóññêèé">
   <lang index="4" title="Eesti">
   <lang index="5" title="Latviesu">
   <lang index="6" title="Lietuviu">
-  <lang index="7" title="Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°">
+  <lang index="7" title="Óêðà¿íñüêà">
   <lang index="8" title="Romana">
-  <lang index="9" title="ÐšÐ°Ð·Ð°Ñ…">
+  <lang index="9" title="Êàçàõ">
   <lang index="10" title="1">
   <lang index="11" title="2">
   <lang index="12" title="3">
  </langtable>
 
-<group title="Ð“Ñ€Ð°Ñ„Ð¸ÐºÐ°">
+<group title="Ãðàôèêà">
  <img ofs="0x008315A8" title="Samsung Logo" width="176" height="220" bpp="16">
- <img ofs="0x81E724" title="(Ð½Ðµ Ñ‚Ñ€Ð¾Ð³Ð°Ñ‚ÑŒ!!!) Tat Mode" width="176" height="220" bpp="16">
- <img title="Ð˜ÐºÐ¾Ð½ÐºÐ¸ Ñ€ÐµÐ¶Ð¸Ð¼Ð° Ð²Ð²Ð¾Ð´Ð° Ð² Java" frames="0x11F2E74,0x33E5E4,0x33FC08,0x33FE08,0x11F1514,0x33E5E4,0x11F1514" width="16" height="16" bpp="16">
- <group title="Ð¡ÐœÐ¡">
-  <group title="Ð§ÐµÑ€Ð½Ð¾-Ð±ÐµÐ»Ñ‹Ðµ Ð°Ð½Ð¸Ð¼Ð°Ñ†Ð¸Ð¸">
-    <img title="Ð”ÐµÐ½ÑŒ Ñ€Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ" frames="0x3204CC,0x3204EC,0x16499FE,0x1649A1E" width="16" height="16" bpp="1">
-    <img title="ÐšÐµÐºÑ" frames="0x1A4D22E,0x7D95E8,0x7D9608,0xD2C89A" width="16" height="16" bpp="1">
-    <img title="ÐšÐ»ÐµÐ²ÐµÑ€" frames="0x7D9628,0x11C2622,0x1649A3E,0x11C2642" width="16" height="16" bpp="1">
-	<img title="ÐšÐ¾Ñ„Ðµ" frames="0xD2C8BA,0x1A4D24E,0x11C2662,0x1A4D26E" width="16" height="16" bpp="1">
-	<img title="Ð”ÐµÐ²ÑƒÑˆÐºÐ°" frames="0x32050C,0x7D9648,0x1649A5E,0xD2C8DA" width="16" height="16" bpp="1">
-	<img title="Ð¡ÐµÑ€Ð´Ñ†Ðµ1" frames="0x32052C,0x7D9668,0xD2C8FA,0xD2C91A" width="16" height="16" bpp="1">
-	<img title="Ð¡ÐµÑ€Ð´Ñ†Ðµ2" frames="0x1A4D28E,0x1649A7E,0x32052C,0x1649A9E" width="16" height="16" bpp="1">
-	<img title="ÐœÐµÐ»Ð¾Ð´Ð¸Ñ" frames="0x1649ABE,0x32054C,0x7D9688,0x11C26A2" width="16" height="16" bpp="1">
-	<img title="ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ñ" frames="0x7D96A8,0x32056C,0x32058C,0xD2C93A" width="16" height="16" bpp="1">
-	<img title="Ð”ÐµÑ€ÐµÐ²Ð¾" frames="0x7D96C8,0x1A4D2AE,0x11C26C2,0x7D96E8" width="16" height="16" bpp="1">
+ <img ofs="0x81E724" title="(íå òðîãàòü!!!) Tat Mode" width="176" height="220" bpp="16">
+ <img title="Èêîíêè ðåæèìà ââîäà â Java" frames="0x11F2E74,0x33E5E4,0x33FC08,0x33FE08,0x11F1514,0x33E5E4,0x11F1514" width="16" height="16" bpp="16">
+ <group title="ÑÌÑ">
+  <group title="×åðíî-áåëûå àíèìàöèè">
+    <img title="Äåíü ðîæäåíèÿ" frames="0x3204CC,0x3204EC,0x16499FE,0x1649A1E" width="16" height="16" bpp="1">
+    <img title="Êåêñ" frames="0x1A4D22E,0x7D95E8,0x7D9608,0xD2C89A" width="16" height="16" bpp="1">
+    <img title="Êëåâåð" frames="0x7D9628,0x11C2622,0x1649A3E,0x11C2642" width="16" height="16" bpp="1">
+	<img title="Êîôå" frames="0xD2C8BA,0x1A4D24E,0x11C2662,0x1A4D26E" width="16" height="16" bpp="1">
+	<img title="Äåâóøêà" frames="0x32050C,0x7D9648,0x1649A5E,0xD2C8DA" width="16" height="16" bpp="1">
+	<img title="Ñåðäöå1" frames="0x32052C,0x7D9668,0xD2C8FA,0xD2C91A" width="16" height="16" bpp="1">
+	<img title="Ñåðäöå2" frames="0x1A4D28E,0x1649A7E,0x32052C,0x1649A9E" width="16" height="16" bpp="1">
+	<img title="Ìåëîäèÿ" frames="0x1649ABE,0x32054C,0x7D9688,0x11C26A2" width="16" height="16" bpp="1">
+	<img title="Íàïîìèíàíèÿ" frames="0x7D96A8,0x32056C,0x32058C,0xD2C93A" width="16" height="16" bpp="1">
+	<img title="Äåðåâî" frames="0x7D96C8,0x1A4D2AE,0x11C26C2,0x7D96E8" width="16" height="16" bpp="1">
 	</group>
-        <group title="ÐœÐ°Ð»ÐµÐ½ÑŒÐºÐ¸Ðµ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸">
-	<img ofs="0x11C0C2C" title="ÐšÐ¾ÑˆÐºÐ°" width="16" height="16" bpp="1">
-	<img ofs="0x1647B82" title="Ð Ð¾Ð¶Ð´ÐµÑÑ‚Ð²Ð¾1" width="16" height="16" bpp="1">
-	<img ofs="0xD2B62C" title="Ð Ð¾Ð¶Ð´ÐµÑÑ‚Ð²Ð¾2" width="16" height="16" bpp="1">
-	<img ofs="0x1A4C45C" title="ÐžÐ±ÐµÐ´" width="16" height="16" bpp="1">
-	<img ofs="0x11C0C4C" title="Ð¦Ð²ÐµÑ‚Ð¾Ðº" width="16" height="16" bpp="1">
-	<img ofs="0x1647BA2" title="Ð”Ð¾Ð¼Ð°ÑˆÐ½Ð¸Ð¹" width="16" height="16" bpp="1">
-	<img ofs="0x1A4C47C" title="ÐŸÐ¾Ñ†ÐµÐ»ÑƒÐ¹" width="16" height="16" bpp="1">
-	<img ofs="0x1647BC2" title="Ð›ÑŽÐ±Ð¾Ð²Ð½Ð¾Ðµ Ð¿Ð¸ÑÑŒÐ¼Ð¾" width="16" height="16" bpp="1">
-	<img ofs="0x7D852E" title="Ð›ÐµÐ½Ñ‚Ð°" width="16" height="16" bpp="1">
-	<img ofs="0x7D854E" title="Ð—Ð²ÐµÐ·Ð´Ð°" width="16" height="16" bpp="1">
-	<img ofs="0x7D856E" title="ÐŸÐ¾Ð³Ð¾Ð´Ð°1" width="16" height="16" bpp="1">
-	<img ofs="0x7D858E" title="ÐŸÐ¾Ð³Ð¾Ð´Ð°2" width="16" height="16" bpp="1">
+        <group title="Ìàëåíüêèå êàðòèíêè">
+	<img ofs="0x11C0C2C" title="Êîøêà" width="16" height="16" bpp="1">
+	<img ofs="0x1647B82" title="Ðîæäåñòâî1" width="16" height="16" bpp="1">
+	<img ofs="0xD2B62C" title="Ðîæäåñòâî2" width="16" height="16" bpp="1">
+	<img ofs="0x1A4C45C" title="Îáåä" width="16" height="16" bpp="1">
+	<img ofs="0x11C0C4C" title="Öâåòîê" width="16" height="16" bpp="1">
+	<img ofs="0x1647BA2" title="Äîìàøíèé" width="16" height="16" bpp="1">
+	<img ofs="0x1A4C47C" title="Ïîöåëóé" width="16" height="16" bpp="1">
+	<img ofs="0x1647BC2" title="Ëþáîâíîå ïèñüìî" width="16" height="16" bpp="1">
+	<img ofs="0x7D852E" title="Ëåíòà" width="16" height="16" bpp="1">
+	<img ofs="0x7D854E" title="Çâåçäà" width="16" height="16" bpp="1">
+	<img ofs="0x7D856E" title="Ïîãîäà1" width="16" height="16" bpp="1">
+	<img ofs="0x7D858E" title="Ïîãîäà2" width="16" height="16" bpp="1">
 	</group>
-        <group title="Ð‘Ð¾Ð»ÑŒÑˆÐ¸Ðµ ÐºÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸">
-	<img ofs="0x1A4C49C" title="Ð¨Ð°Ñ€Ð¸Ðº" width="32" height="32" bpp="1">
-	<img ofs="0x11C0C6C" title="ÐŸÐ¸Ð²Ð¾" width="32" height="32" bpp="1">
-	<img ofs="0x1A4C51C" title="ÐšÐµÐºÑ" width="32" height="32" bpp="1">
-	<img ofs="0x1647BE2" title="Ð”ÐµÐ²ÑƒÑˆÐºÐ°1" width="32" height="32" bpp="1">
-	<img ofs="0x11C0CEC" title="Ð”ÐµÐ²ÑƒÑˆÐºÐ°2" width="32" height="32" bpp="1">
-	<img ofs="0x1647C62" title="Ð“ÑƒÐ±Ð½Ð°Ñ Ð¿Ð¾Ð¼Ð°Ð´Ð°" width="32" height="32" bpp="1">
-	<img ofs="0x1647CE2" title="ÐÐ°Ð¿Ð¾Ð¼Ð¸Ð½Ð°Ð½Ð¸Ñ" width="32" height="32" bpp="1">
-	<img ofs="0x11C0D6C" title="ÐœÐµÐ»Ð¾Ð´Ð¸Ð¸" width="32" height="32" bpp="1">
-	<img ofs="0x1647D62" title="ÐŸÐ¾Ð´Ð°Ñ€Ð¾Ðº" width="32" height="32" bpp="1">
-	<img ofs="0x11C0DEC" title="Ð Ð¾Ð·Ð°" width="32" height="32" bpp="1">
-	<img ofs="0x7D85AE" title="Ð’Ð¸Ð½Ð¾" width="32" height="32" bpp="1">
-	<img ofs="0x1A4C59C" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ" width="32" height="32" bpp="1">
-	<img ofs="0x31F41A" title="Ð Ð°Ð·Ð±Ð¸Ñ‚Ð¾Ðµ ÑÐµÑ€Ð´Ñ†Ðµ" width="32" height="32" bpp="1">
-	<img ofs="0x11C0E6C" title="Ð‘Ð°Ð±Ð¾Ñ‡ÐºÐ°" width="32" height="32" bpp="1">
-	<img ofs="0x1647DE2" title="Ð¡Ð¾Ð±Ð°ÐºÐ°" width="32" height="32" bpp="1">
-	<img ofs="0xD2B64C" title="ÐšÐ°ÐºÑ‚ÑƒÑ" width="32" height="32" bpp="1">
-	<img ofs="0xD2B6CC" title="ÐŸÐ¾Ð´ÑÐ¾Ð»Ð½ÑƒÑ…" width="32" height="32" bpp="1">
-	<img ofs="0xD2B74C" title="ÐžÐ±Ð»Ð°ÐºÐ¾" width="32" height="32" bpp="1">
-	<img ofs="0x7D862E" title="Ð—Ð²ÐµÐ·Ð´Ñ‹" width="32" height="32" bpp="1">
-	<img ofs="0xD2B7CC" title="Ð¡ÐºÐµÐ»ÐµÑ‚" width="32" height="32" bpp="1">
+        <group title="Áîëüøèå êàðòèíêè">
+	<img ofs="0x1A4C49C" title="Øàðèê" width="32" height="32" bpp="1">
+	<img ofs="0x11C0C6C" title="Ïèâî" width="32" height="32" bpp="1">
+	<img ofs="0x1A4C51C" title="Êåêñ" width="32" height="32" bpp="1">
+	<img ofs="0x1647BE2" title="Äåâóøêà1" width="32" height="32" bpp="1">
+	<img ofs="0x11C0CEC" title="Äåâóøêà2" width="32" height="32" bpp="1">
+	<img ofs="0x1647C62" title="Ãóáíàÿ ïîìàäà" width="32" height="32" bpp="1">
+	<img ofs="0x1647CE2" title="Íàïîìèíàíèÿ" width="32" height="32" bpp="1">
+	<img ofs="0x11C0D6C" title="Ìåëîäèè" width="32" height="32" bpp="1">
+	<img ofs="0x1647D62" title="Ïîäàðîê" width="32" height="32" bpp="1">
+	<img ofs="0x11C0DEC" title="Ðîçà" width="32" height="32" bpp="1">
+	<img ofs="0x7D85AE" title="Âèíî" width="32" height="32" bpp="1">
+	<img ofs="0x1A4C59C" title="Ñåðäöå" width="32" height="32" bpp="1">
+	<img ofs="0x31F41A" title="Ðàçáèòîå ñåðäöå" width="32" height="32" bpp="1">
+	<img ofs="0x11C0E6C" title="Áàáî÷êà" width="32" height="32" bpp="1">
+	<img ofs="0x1647DE2" title="Ñîáàêà" width="32" height="32" bpp="1">
+	<img ofs="0xD2B64C" title="Êàêòóñ" width="32" height="32" bpp="1">
+	<img ofs="0xD2B6CC" title="Ïîäñîëíóõ" width="32" height="32" bpp="1">
+	<img ofs="0xD2B74C" title="Îáëàêî" width="32" height="32" bpp="1">
+	<img ofs="0x7D862E" title="Çâåçäû" width="32" height="32" bpp="1">
+	<img ofs="0xD2B7CC" title="Ñêåëåò" width="32" height="32" bpp="1">
          </group>
 </group>
- <group title="Ð¡Ð˜Ðœ">
-         <group title="Ð˜ÐºÐ¾Ð½ÐºÐ¸ ÑÐ¸Ð¼Ð¾Ðº">
-  <img ptr="0x007D1C60" title="ÑÐ¸Ð¼1" width="18" height="18" type="IFG">
-  <img ptr="0x007D1C78" title="ÑÐ¸Ð¼2" width="18" height="18" type="IFG">
-  <img ptr="0x007D1C90" title="Ð´Ð¾Ð¼" width="18" height="18" type="IFG">
-  <img ptr="0x007D1CA8" title="ÑÐµÑ€Ð´Ñ†Ðµ" width="18" height="18" type="IFG">
-  <img ptr="0x007D1CC0" title="Ñ€Ð°Ð±Ð¾Ñ‚Ð°" width="18" height="18" type="IFG">
-  <img ptr="0x007D1CD8" title="Ð·Ð²ÐµÐ·Ð´Ð°" width="18" height="18" type="IFG">
-  <img ptr="0x007D1CF0" title="ÐºÐ»ÐµÐ²ÐµÑ€" width="18" height="18" type="IFG">
+ <group title="ÑÈÌ">
+         <group title="Èêîíêè ñèìîê">
+  <img ptr="0x007D1C60" title="ñèì1" width="18" height="18" type="IFG">
+  <img ptr="0x007D1C78" title="ñèì2" width="18" height="18" type="IFG">
+  <img ptr="0x007D1C90" title="äîì" width="18" height="18" type="IFG">
+  <img ptr="0x007D1CA8" title="ñåðäöå" width="18" height="18" type="IFG">
+  <img ptr="0x007D1CC0" title="ðàáîòà" width="18" height="18" type="IFG">
+  <img ptr="0x007D1CD8" title="çâåçäà" width="18" height="18" type="IFG">
+  <img ptr="0x007D1CF0" title="êëåâåð" width="18" height="18" type="IFG">
        </group>
-        <group title="Ð²Ñ….;Ð¸ÑÑ….;Ð¿Ñ€Ð¾Ð¿.">
-    <img ptr="0x014F592C" title="ÑÐ¸Ð¼1.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F5884" title="ÑÐ¸Ð¼1.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F57DC" title="ÑÐ¸Ð¼1.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
-    <img ptr="0x014F5944" title="ÑÐ¸Ð¼2.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F589C" title="ÑÐ¸Ð¼2.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F57F4" title="ÑÐ¸Ð¼2.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
-    <img ptr="0x014F5974" title="Ð´Ð¾Ð¼.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F58CC" title="Ð´Ð¾Ð¼.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F5824" title="Ð´Ð¾Ð¼.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
-    <img ptr="0x014F598C" title="ÑÐµÑ€Ð´Ñ†Ðµ.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F58E4" title="ÑÐµÑ€Ð´Ñ†Ðµ.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F583C" title="ÑÐµÑ€Ð´Ñ†Ðµ.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
-    <img ptr="0x014F59A4" title="Ñ€Ð°Ð±Ð¾Ñ‚Ð°.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F58FC" title="Ñ€Ð°Ð±Ð¾Ñ‚Ð°.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F5854" title="Ñ€Ð°Ð±Ð¾Ñ‚Ð°.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
-    <img ptr="0x014F59BC" title="Ð·Ð²ÐµÐ·Ð´Ð°.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F5914" title="Ð·Ð²ÐµÐ·Ð´Ð°.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F586C" title="Ð·Ð²ÐµÐ·Ð´Ð°.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
-    <img ptr="0x014F595C" title="ÐºÐ»ÐµÐ²ÐµÑ€.Ð²Ñ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F58B4" title="ÐºÐ»ÐµÐ²ÐµÑ€.Ð¸ÑÑ…" width="23" height="23" type="IFG">
-    <img ptr="0x014F580C" title="ÐºÐ»ÐµÐ²ÐµÑ€.Ð¿Ñ€Ð¾Ð¿" width="23" height="23" type="IFG">
+        <group title="âõ.;èñõ.;ïðîï.">
+    <img ptr="0x014F592C" title="ñèì1.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F5884" title="ñèì1.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F57DC" title="ñèì1.ïðîï" width="23" height="23" type="IFG">
+    <img ptr="0x014F5944" title="ñèì2.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F589C" title="ñèì2.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F57F4" title="ñèì2.ïðîï" width="23" height="23" type="IFG">
+    <img ptr="0x014F5974" title="äîì.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F58CC" title="äîì.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F5824" title="äîì.ïðîï" width="23" height="23" type="IFG">
+    <img ptr="0x014F598C" title="ñåðäöå.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F58E4" title="ñåðäöå.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F583C" title="ñåðäöå.ïðîï" width="23" height="23" type="IFG">
+    <img ptr="0x014F59A4" title="ðàáîòà.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F58FC" title="ðàáîòà.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F5854" title="ðàáîòà.ïðîï" width="23" height="23" type="IFG">
+    <img ptr="0x014F59BC" title="çâåçäà.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F5914" title="çâåçäà.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F586C" title="çâåçäà.ïðîï" width="23" height="23" type="IFG">
+    <img ptr="0x014F595C" title="êëåâåð.âõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F58B4" title="êëåâåð.èñõ" width="23" height="23" type="IFG">
+    <img ptr="0x014F580C" title="êëåâåð.ïðîï" width="23" height="23" type="IFG">
         </group>
 </group>
-          <group title="Ð’Ð²Ð¾Ð´ Ð±ÑƒÐºÐ²">
+          <group title="Ââîä áóêâ">
 </group>
-          <group title="ÐŸÑ€Ð¾Ñ„Ð¸Ð»Ð¸">
+          <group title="Ïðîôèëè">
 </group>
-          <group title="Ð—Ð°Ñ€ÑÐ´  Ð°ÐºÐºÑƒÐ¼ÑƒÐ»ÑÑ‚Ð¾Ñ€Ð°">
-   <img ptr="0x01B85BB4" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-0" width="25" height="17" type="IFG">
-   <img ptr="0x01B85BB8" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-1" width="25" height="17" type="IFG">
-   <img ptr="0x01B85BBC" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-2" width="25" height="17" type="IFG">
-   <img ptr="0x01B85BC0" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-3" width="25" height="17" type="IFG">
-   <img ptr="0x01B85BC4" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-4" width="25" height="17" type="IFG">
-   <img ptr="0x01B85BC8" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-5" width="25" height="17" type="IFG">
+          <group title="Çàðÿä  àêêóìóëÿòîðà">
+   <img ptr="0x01B85BB4" title="áàòàðåÿ-0" width="25" height="17" type="IFG">
+   <img ptr="0x01B85BB8" title="áàòàðåÿ-1" width="25" height="17" type="IFG">
+   <img ptr="0x01B85BBC" title="áàòàðåÿ-2" width="25" height="17" type="IFG">
+   <img ptr="0x01B85BC0" title="áàòàðåÿ-3" width="25" height="17" type="IFG">
+   <img ptr="0x01B85BC4" title="áàòàðåÿ-4" width="25" height="17" type="IFG">
+   <img ptr="0x01B85BC8" title="áàòàðåÿ-5" width="25" height="17" type="IFG">
 </group>
-          <group title="Ð˜ÐºÐ¾Ð½ÐºÐ¸ Ð¸Ð½Ñ„Ð¾-Ð¿Ð¾Ð»Ð¾ÑÑ‹ Ð´ÐµÑÐºÑ‚Ð¾Ð¿Ð°">
+          <group title="Èêîíêè èíôî-ïîëîñû äåñêòîïà">
    </group>
-               <group title="Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ ÑÐ¸Ð³Ð½Ð°Ð»Ð° Ð¼Ð°Ð»ÐµÐ½ÑŒÐºÐ¸Ðµ (Ñ€ÐµÐ¶Ð¸Ð¼ 2Ñ… Ð¡Ð˜Ðœ-ÐºÐ°Ñ€Ñ‚)">
-  <img ptr="0x01B85CB4" title="Ð¡Ð¸Ð¼1-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CB8" title="Ð¡Ð¸Ð¼1-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CBC" title="Ð¡Ð¸Ð¼1-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CC0" title="Ð¡Ð¸Ð¼1-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CC4" title="Ð¡Ð¸Ð¼1-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CC8" title="Ð¡Ð¸Ð¼1-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CCC" title="Ð¡Ð¸Ð¼1-6" width="24" height="17" type="IFG">             
-  <img ptr="0x01B85CD0" title="Ð¡Ð¸Ð¼2-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CD4" title="Ð¡Ð¸Ð¼2-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CD8" title="Ð¡Ð¸Ð¼2-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CDC" title="Ð¡Ð¸Ð¼2-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CE0" title="Ð¡Ð¸Ð¼2-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CE4" title="Ð¡Ð¸Ð¼2-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CE8" title="Ð¡Ð¸Ð¼2-6" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CEC" title="Ð”Ð¾Ð¼-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CF0" title="Ð”Ð¾Ð¼-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CF4" title="Ð”Ð¾Ð¼-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CF8" title="Ð”Ð¾Ð¼-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85CFC" title="Ð”Ð¾Ð¼-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D00" title="Ð”Ð¾Ð¼-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D04" title="Ð”Ð¾Ð¼-6" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D24" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D28" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D2C" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D30" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D34" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D38" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D3C" title="Ð Ð°Ð±Ð¾Ñ‚Ð°-6" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D40" title="Ð—Ð²ÐµÐ·Ð´Ð°-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D44" title="Ð—Ð²ÐµÐ·Ð´Ð°-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D48" title="Ð—Ð²ÐµÐ·Ð´Ð°-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D4C" title="Ð—Ð²ÐµÐ·Ð´Ð°-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D50" title="Ð—Ð²ÐµÐ·Ð´Ð°-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D54" title="Ð—Ð²ÐµÐ·Ð´Ð°-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D58" title="Ð—Ð²ÐµÐ·Ð´Ð°-6" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D08" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D0C" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D10" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D14" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D18" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D1C" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D20" title="Ð¡ÐµÑ€Ð´Ñ†Ðµ-6" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D5C" title="ÐšÐ»ÐµÐ²ÐµÑ€-0" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D60" title="ÐšÐ»ÐµÐ²ÐµÑ€-1" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D64" title="ÐšÐ»ÐµÐ²ÐµÑ€-2" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D68" title="ÐšÐ»ÐµÐ²ÐµÑ€-3" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D6C" title="ÐšÐ»ÐµÐ²ÐµÑ€-4" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D70" title="ÐšÐ»ÐµÐ²ÐµÑ€-5" width="24" height="17" type="IFG">
-  <img ptr="0x01B85D74" title="ÐšÐ»ÐµÐ²ÐµÑ€-6" width="24" height="17" type="IFG">
+               <group title="Óðîâåíü ñèãíàëà ìàëåíüêèå (ðåæèì 2õ ÑÈÌ-êàðò)">
+  <img ptr="0x01B85CB4" title="Ñèì1-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CB8" title="Ñèì1-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CBC" title="Ñèì1-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CC0" title="Ñèì1-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CC4" title="Ñèì1-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CC8" title="Ñèì1-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CCC" title="Ñèì1-6" width="24" height="17" type="IFG">             
+  <img ptr="0x01B85CD0" title="Ñèì2-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CD4" title="Ñèì2-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CD8" title="Ñèì2-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CDC" title="Ñèì2-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CE0" title="Ñèì2-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CE4" title="Ñèì2-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CE8" title="Ñèì2-6" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CEC" title="Äîì-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CF0" title="Äîì-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CF4" title="Äîì-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CF8" title="Äîì-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85CFC" title="Äîì-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D00" title="Äîì-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D04" title="Äîì-6" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D24" title="Ðàáîòà-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D28" title="Ðàáîòà-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D2C" title="Ðàáîòà-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D30" title="Ðàáîòà-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D34" title="Ðàáîòà-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D38" title="Ðàáîòà-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D3C" title="Ðàáîòà-6" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D40" title="Çâåçäà-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D44" title="Çâåçäà-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D48" title="Çâåçäà-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D4C" title="Çâåçäà-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D50" title="Çâåçäà-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D54" title="Çâåçäà-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D58" title="Çâåçäà-6" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D08" title="Ñåðäöå-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D0C" title="Ñåðäöå-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D10" title="Ñåðäöå-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D14" title="Ñåðäöå-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D18" title="Ñåðäöå-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D1C" title="Ñåðäöå-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D20" title="Ñåðäöå-6" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D5C" title="Êëåâåð-0" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D60" title="Êëåâåð-1" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D64" title="Êëåâåð-2" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D68" title="Êëåâåð-3" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D6C" title="Êëåâåð-4" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D70" title="Êëåâåð-5" width="24" height="17" type="IFG">
+  <img ptr="0x01B85D74" title="Êëåâåð-6" width="24" height="17" type="IFG">
     </group>
-               <group title="Ð£Ñ€Ð¾Ð²ÐµÐ½ÑŒ ÑÐ¸Ð³Ð½Ð°Ð»Ð° Ð±Ð¾Ð»ÑŒÑˆÐ¸Ðµ (Ñ€ÐµÐ¶Ð¸Ð¼ 1Ð¾Ð¹ Ð¡Ð˜Ðœ-ÐºÐ°Ñ€Ñ‚Ñ‹">
+               <group title="Óðîâåíü ñèãíàëà áîëüøèå (ðåæèì 1îé ÑÈÌ-êàðòû">
    </group>
-               <group title="ÐšÐ°Ñ€Ñ‚Ð¸Ð½ÐºÐ¸ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸ Java">
+               <group title="Êàðòèíêè çàãðóçêè Java">
           <img ptr="0x00813884" title="connect_01" width="176" height="220" type="IFG">
           <img ptr="0x0081389C" title="connect_02" width="176" height="220" type="IFG">
           <img ptr="0x008138B4" title="connect_03" width="176" height="220" type="IFG">
@@ -223,12 +223,12 @@
           <img ptr="0x00813854" title="on_07" width="176" height="220" type="IFG">
           <img ptr="0x0081386C" title="on_08" width="176" height="220" type="IFG">
    </group>
-         <group title="ÐœÑƒÑÐ¾Ñ€ Ð¾Ñ‚ ÑÑ‚Ð°Ñ€Ñ‹Ñ… Ð¿Ñ€Ð¾ÑˆÐ¸Ð²Ð¾Ðº">
-     <img ofs="0x8C5EDE" title="ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ" width="19" height="19" bpp="16">
-     <img ofs="0x79C320" title="ÐÐµÐ¸Ð·Ð²ÐµÑÑ‚Ð½Ð°Ñ" width="15" height="18" bpp="16">
-     <img ofs="0x7D9708" title="(Ð½Ðµ Ñ‚Ñ€Ð¾Ð³Ð°Ñ‚ÑŒ!!!) ÐÐ¾Ñ‚Ñ‹ â„–1" width="176" height="50" bpp="16">
-     <img ofs="0xD2C95A" title="(Ð½Ðµ Ñ‚Ñ€Ð¾Ð³Ð°Ñ‚ÑŒ!!!) ÐÐ¾Ñ‚Ñ‹ â„–2" width="176" height="50" bpp="16">
-     <img ofs="0x11F1714" title="Ð¤Ð¾Ð½" width="176" height="17" bpp="16">
+         <group title="Ìóñîð îò ñòàðûõ ïðîøèâîê">
+     <img ofs="0x8C5EDE" title="Íåèçâåñòíàÿ" width="19" height="19" bpp="16">
+     <img ofs="0x79C320" title="Íåèçâåñòíàÿ" width="15" height="18" bpp="16">
+     <img ofs="0x7D9708" title="(íå òðîãàòü!!!) Íîòû ¹1" width="176" height="50" bpp="16">
+     <img ofs="0xD2C95A" title="(íå òðîãàòü!!!) Íîòû ¹2" width="176" height="50" bpp="16">
+     <img ofs="0x11F1714" title="Ôîí" width="176" height="17" bpp="16">
  </group>
  <group title="IFG from IFG_RW">
   <img ptr="0x01970CD8" title="002854C6" width="20" height="20" type="IFG">
@@ -816,7 +816,7 @@
   <img ptr="0x01B85B50" title="007CA0DE" width="16" height="17" type="IFG">
   <img ptr="0x01B85B58" title="007CA182" width="16" height="17" type="IFG">
   <img ptr="0x01B85BA8" title="007CA24C" width="16" height="17" type="IFG">
-  <img ptr="0x01B85BB8" title="Ð±Ð°Ñ‚Ð°Ñ€ÐµÑ-1" width="25" height="17" type="IFG">
+  <img ptr="0x01B85BB8" title="áàòàðåÿ-1" width="25" height="17" type="IFG">
   <img ptr="0x01B85BD4" title="007CA38A" width="16" height="17" type="IFG">
   <img ptr="0x01B85BFC" title="007CA406" width="28" height="17" type="IFG">
   <img ptr="0x01B85C1C" title="007CA4AE" width="28" height="17" type="IFG">
@@ -839,7 +839,7 @@
   <img ptr="0x007D14F8" title="007D207A" width="176" height="25" type="IFG">
   <img ptr="0x007D1510" title="007D22CE" width="176" height="25" type="IFG">
   <img ptr="0x007D1828" title="007D298D" width="22" height="9" type="IFG">
-  <img ptr="0x007D1CF0" title="ÐºÐ»ÐµÐ²ÐµÑ€" width="18" height="18" type="IFG">
+  <img ptr="0x007D1CF0" title="êëåâåð" width="18" height="18" type="IFG">
   <img ptr="0x007D1DE0" title="007D33B9" width="27" height="27" type="IFG">
   <img ptr="0x007D1F18" title="007D355A" width="26" height="26" type="IFG">
   <img ptr="0x01641520" title="007D3A10" width="110" height="26" type="IFG">
@@ -1965,7 +1965,7 @@
   <img ptr="0x0146DC90" title="01632000_2" width="16" height="17" type="IFG">
   <img ptr="0x01B85B78" title="01632000_3" width="16" height="17" type="IFG">
   <img ptr="0x01B85B88" title="01632084" width="16" height="17" type="IFG">
-  <img ptr="0x01B85B94" title="Ñ„Ð»ÐµÑˆÐºÐ°" width="16" height="17" type="IFG">
+  <img ptr="0x01B85B94" title="ôëåøêà" width="16" height="17" type="IFG">
   
   <img ptr="0x01B85BD8" title="0163226C" width="16" height="17" type="IFG">
   <img ptr="0x01B85BE0" title="01632306" width="16" height="17" type="IFG">
