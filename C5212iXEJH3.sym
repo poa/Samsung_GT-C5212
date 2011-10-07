@@ -1,4 +1,4 @@
-0x201BA024 T lk2_GetMMITraceLevel
+0x200B9A18 T CountImagLength
 0x201BA5C0 T lk6_GetRestoreDataInContext
 0x201BAE1C T lk_ClearScreen
 0x201BC734 T lk_DisplayMainMenuBlockUCS
@@ -6,6 +6,7 @@
 0x201C1500 T lk_DrawLineScreen
 0x201C3AE0 T lk_get_text
 0x201C3C2C T lkcore30_IsMusicStudioCondition
+0x201C57A8 T lkwdg08_DisplayIndicatorTime
 0x201D3A0C T mmigfs1_7GetFileSize
 0x201F1FEC T mp3_GetBGMStatus
 0x202271AC T set14_GetSimIcon_Unfocused
@@ -19,6 +20,7 @@
 0x2061DDFC T fm1_49CheckAntennaDetected
 0x20632F20 T hmel6_16SetMultiPolyMelodyVibrator
 0x2064D9A4 T lk4_8GraphicWindow
+0x206557D4 T lk_GetCenterPos
 0x20656CD8 D lk_GetUIDirection
 0x2065B9C0 T lkwdg3_50GetAnimationIconType
 0x2065B9CC T lkwdg3_56GetWidgetOpacity
@@ -62,11 +64,13 @@
 0x20E8D458 T DrawFillBox
 0x20EE5438 D ResetLookFlag
 0x20F72898 T lk2_12start_menu_edit_fsm
+0x20F72920 T lk4_10WriteWindow
 0x20F72B1C T lk4_CopyScreen
 0x20F73D00 T lk6_GetRestoreData
 0x20F74700 T lk_CheckRememberMenuIndex
 0x20F7C1C8 T lk_DrawPopupBodyBG
 0x20F7CFC4 T lk_GetRememberMenuIndex
+0x20F7EB80 T lk_RtcGetTime
 0x20F7F1A0 D lk_set_image_position
 0x20F7F6C0 T lkoem51_BackLightOn
 0x20F808E0 T lkwdg07_RegisterSoftkey
@@ -87,6 +91,7 @@
 0x2141945C T lk_DestroyMenuMain
 0x2141AE60 T lk_DisplayMenuBackground
 0x2141E36C D lk_GetCurFocusIndex
+0x2141F3AC T lk_GetTimeString
 0x214205F8 T lk_RegFocusChangeCheckFunc
 0x214213DC T lk_get_sofk
 0x21421414 T lk_ifegDecode
@@ -130,6 +135,12 @@
 0x304A8B52 D Ibit_size
 0x304A8B53 D Iversion
 0x304AE900 D gv_DspMenuInEditor
+0x304AE916 T fx_pos
+0x304AE918 T fy_pos
+0x304AE91A T f_width
+0x304AE91C T f_height
+0x304AE91E T f_font
+0x304AE920 T f_color
 0x304AE922 D gs_TransColor
 0x304AEB44 D gs_DspFocus
 0x304AEC3C D ga_GraphicBuffer2
