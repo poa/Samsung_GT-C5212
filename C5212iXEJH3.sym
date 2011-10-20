@@ -1,4 +1,3 @@
-0x20010000 T SetStackPointers
 0x20010040 T set_ram_cs5
 0x20010044 T jump_normal_CS
 0x2001004C T jump_normal
@@ -10487,6 +10486,7 @@
 0x202A3750 T a_img_bin_CCD_UNIFIED_IMG_LEVEL_DIGIT_9_common_
 0x202A39A0 T a_img_bin_CCD_UNIFIED_IMG_HOTKEY_SHOT_TIMER_2_SEC_SK_common_
 0x202A3CAC T osd_camera_softkey_hotkey_ev_up_dim
+0x202A402C M mcc_mp_close_req
 0x202A4D08 T aMp2_10mobiinit
 0x202A4D38 T aIntuitivetypeD
 0x202A4D50 T aMp2_20mobiopen
@@ -13177,6 +13177,7 @@
 0x20303B84 T aDjkimblue_de_0
 0x20303BD4 T aLkoem31_lcdinv
 0x20303C2C T aDjkimblue_de_1
+0x20303CB0 M mcc_lk_keylocked_valid_key
 0x20303EC4 T aMmiMcc_editRes
 0x20303EF8 T aMmiMcc_editR_0
 0x20303F68 T aBaek1Gs_look_0
@@ -21476,8 +21477,6 @@
 0x2051CE42 T malloc
 0x2051CE58 T memchr
 0x2051CEC0 T strcspn
-0x202A402C M mcc_mp_close_req
-0x20303CB0 M mcc_lk_keylocked_valid_key
 0x2051CEF0 T strlen
 0x2051CF3C T strtok
 0x2051CF90 T strtol
@@ -25382,6 +25381,7 @@
 0x2064D0D4 T lk24_15MMITransitionEffectMenuRendering
 0x2064D2B0 T lk24_61MMITransitionEffectStartItem
 0x2064D3B0 T lk24_62MMITransitionEffectStartMove
+0x2064D5B4 T lk25_42GetUCS3Opacity
 0x2064D5F0 T jpt_212068F0
 0x2064D6A4 T sdmGetFileSizeFromDDF
 0x2064D6B4 T lk2_20_t9menu_rsp
@@ -26767,9 +26767,9 @@
 0x206B22F0 T set2_152IsSoundPlayAllowed
 0x206B2310 T set2_166DefaultWallpaperImageGetFrameFunc
 0x206B23D0 T set2_167GetDefaultWallpaperImageNbFrames
+0x206B2428 T set2_201GetMasterSimIcon
 0x206B2484 T set2_4GeneralIf
 0x206B2530 T set2_6GeneralMenu
-0x206B2428 T set2_201GetMasterSimIcon
 0x206B2780 T set2_GetSIMName
 0x206B285C T mmm20_04CmmProcAllowedInd
 0x206B29B4 T set2_MsgToneSetTempProfile
@@ -27681,29 +27681,17 @@
 0x206E5100 T upv1_9TestSimAccessFile
 0x206E521C T upv2_1SpvTrace
 0x206E5644 T upv3_13RemoveInterCharacter
-0x2071751C M mcc_pb_cl_before_view_recent_contacts
 0x206E5664 T upv3_21PhoneNumToBcd
-0x207D11B8 D set_icontable
 0x206E56FC T upv5_0Type81ToType80
-0x207F3DE0 T FreeCFG
 0x206E5754 T urtk1_5ReceiveRequest
-0x207F3DE8 T lk_get_my_text
 0x206E5770 T urtk2_12ChangeProfileNumber
-0x207F3E4A T LoadCFG
 0x206E5788 T urtk2_4DeregisterDispatchFct
-0x207F3E7E T SaveCFG
 0x206E57AC T urtk_GenchStopDataPump
-0x207F3ED0 D LangTab
 0x206E57C4 T urtk_ProcessSetConfig
-0x207F42D0 D my0_4if_Table
 0x206E580C T urtk_UsbSoftReconnectTimeout
-0x207F46D0 D my0_5task_Table
 0x206E5834 T urtk_internal_OpenInterruptConnection
-0x207F4AD0 D my0_6menu_Table
 0x206E5850 T usbi0_2FreeMemory
-0x208054E0 M mcc_drm_media_check_before_play_next
 0x206E5864 T use_merged_upsample_0
-0x2081E83C T lk_GenerateVibration
 0x206E5870 T UsbPumpDataPlane_AddInterface
 0x206E58E8 T utf8_isInvalid3_0
 0x206E590A T smm1_2RecordLength
@@ -28535,6 +28523,7 @@
 0x2071713C T mcc_pb_cl_options_add_dialled_calls_entry_to_unicon_reject_list
 0x2071723C T mcc_messages_uc_empty_msg_ok
 0x2071733C T mcc_messages_uc_empty_recipient_options
+0x2071751C M mcc_pb_cl_before_view_recent_contacts
 0x2071755C T mcc_pb_cl_display_recent_contacts
 0x207175BC T mcc_pb_cl_deleteall_recent
 0x207175EC T mcc_pb_cl_deleteall_missed
@@ -31073,6 +31062,7 @@
 0x207D1170 T aTest_5
 0x207D1178 T aMenu_set_vod_t
 0x207D119C T aVod_port_flag
+0x207D11B8 D set_icontable
 0x207D1F38 T myfiles_folder_mem
 0x207D1F86 T vvm_folder_mem
 0x207D1FD4 T videos_mem
@@ -31774,6 +31764,14 @@
 0x207F3674 T mcc_expl_folder_details
 0x207F3794 T mcc_expl_report_deleted
 0x207F3CC4 T mcc_expl_send_bt_thumbnail_mode
+0x207F3DE0 T FreeCFG
+0x207F3DE8 T lk_get_my_text
+0x207F3E4A T LoadCFG
+0x207F3E7E T SaveCFG
+0x207F3ED0 D LangTab
+0x207F42D0 D my0_4if_Table
+0x207F46D0 D my0_5task_Table
+0x207F4AD0 D my0_6menu_Table
 0x2080139C T aExpl1_getfilet
 0x20801418 T aVl_menucount_0
 0x20801444 T aLk_app_state_i
@@ -31961,6 +31959,7 @@
 0x208050D4 T s_Img_OGM_sound_player_volume_05
 0x208050F0 T s_Img_OGM_sound_player_volume_01_2nd
 0x208051F0 T aMcc_drm_non__3
+0x208054E0 M mcc_drm_media_check_before_play_next
 0x20805650 T aMcc_drm_med_28
 0x2080579C T aMcc_drm_med_20
 0x2080592C T mcc_expl_folder_option_1st_popup1_from_app
@@ -32544,6 +32543,7 @@
 0x2081E3C0 T gk_ip9028_IntMaskToEpIndex
 0x2081E428 T gk_UsbDescriptorRootIp9028_B_UsbResourceData
 0x2081E724 T TAT_DISPLAY
+0x2081E83C T lk_GenerateVibration
 0x20849548 T GB2312_CODE_TABLE_4
 0x2084954A T GB2312_CODE_TABLE_5
 0x20855B48 T LVAACENC_sideInfoTabLong
@@ -42233,6 +42233,7 @@
 0x20ADBA10 T hkbd1_23SendAutoAnswer
 0x20ADBBDC T hmac_sha_data
 0x20ADBC54 T hmel0_7IncreaseVolume
+0x20ADBC94 T hmel1_20SendStartMessage_chk
 0x20ADBDC8 T hmel1_32StartTone
 0x20ADBF74 T hmel1_36TreatMelodyRequest
 0x20ADC02C T hmel1_3PlayMel
@@ -42669,7 +42670,6 @@
 0x20AF8800 T lk24_71MMITransitionEffectRenderingMove
 0x20AF8978 T lk24_7MMITransitionEffectRendering
 0x20AF8A50 T lk25_45GetTargetColor
-0x20ADBC94 T hmel1_20SendStartMessage_chk
 0x20AF8AE0 T lk25_6SetUCSColorOpacity
 0x20AF8AFC T lk2_GetTimer
 0x20AF8B78 T lk2_StartTimer
@@ -42721,6 +42721,7 @@
 0x20AFAF28 T lk_DisplayIdleCalendarPreviewHolic
 0x20AFB3C0 T lk_DisplayIdlePopup
 0x20AFB71C T lk_DisplayIdlePopupMessages
+0x20AFBE68 T lk_DisplayIdlePopupMissCall
 0x20AFC0BC T lk_DisplayIdlePopupOneSIMMissedCall
 0x20AFC448 T lk_DisplayIdlePopupVVM
 0x20AFC72C T lk_DisplayInputMode
@@ -43312,7 +43313,6 @@
 0x20B1EC64 T mp3_GFS_SeparatePath
 0x20B1ECD0 T Bt05Aa_AvConnectStateGet
 0x20B1ECE0 T mp3_GetSecondFromDuration
-0x20AFBE68 T lk_DisplayIdlePopupMissCall
 0x20B1ED40 T dsm2_06RlpServiceOpenError
 0x20B1ED4C T mp3_LCDResumeMMI
 0x20B1ED78 T l2c_link_hci_qos_violation
@@ -63729,6 +63729,7 @@
 0x20F779D0 T lk_DisplayIdleCalendar
 0x20F77ED4 T lk_DisplayIdleCalendarPreview
 0x20F7837C T lk_DisplayIndicator
+0x20F783A0 T lk_DisplayMainmenuBlockUCSTitle
 0x20F7849C T lk_DisplayMemoryPool
 0x20F78AD8 T lk_DisplayMenu1LIneListItem
 0x20F7985C T lk_DisplayMenu1LIneListItemWildButton
@@ -63855,6 +63856,7 @@
 0x20F8162C T lkwdg18_DestroyList
 0x20F81668 T lkwdg18_SetListArea
 0x20F81804 T lkwdg20_RegisterMenu
+0x20F8183C T lkwdg3_48GetCurThemeIndex
 0x20F81860 T lkwdg_GetPopupIconIndex
 0x20F8187C T jpt_201A3126
 0x20F818D8 T jpt_201A3182
@@ -64294,6 +64296,7 @@
 0x20FA6B28 T mp3_SetAutoMakeMusicInfo
 0x20FA6E34 T mp3_SetFileDescriptor
 0x20FA6E94 T mp3_isBGMPlaying
+0x20FA6EA8 T mp_isPlaying
 0x20FA6EBC T JCamera_isPreviewing
 0x20FA6ED8 T mpa0_7rout
 0x20FA6FEC T mpa1_DisplayImageTFS
@@ -64997,8 +65000,6 @@
 0x20FE06B8 T set05_DialingGetFontColorIndex
 0x20FE070C T set06_23SetDefaultMemoryStorage
 0x20FE0720 T jpt_201EB586
-0x20F8183C T lkwdg3_48GetCurThemeIndex
-0x20FA6EA8 T mp_isPlaying
 0x20FE099C T set14_Draw_SimIcon_Select_Bar_Slave
 0x20FE0BD8 T set2_191IsDualStandbyMode
 0x20FE0BF8 T set2_196SettingFieldSwap
@@ -65937,13 +65938,9 @@
 0x21024B84 T ucs1_4SaveMain
 0x21024B94 T ucs2_33ReadThemeBackground
 0x21024BA0 T uind_IsDriverInstalled
-0x2106C048 M mcc_mp_open_req
 0x21024BB0 T hmel8_21SWMidiSetCurrentMediaTime
-0x2106C1FC M mcc_mp_stop_req
 0x21024BC4 T uind_ResetProbingStructure
-0x2106E808 M mcc_mpa_refresh_progress_contents_info
 0x21024C04 T uind_UsbProbingStartTimer
-0x2106EF40 M mcc_mpa_av_jump_next_BGM
 0x21024C94 T uip9028pl_DeviceIoctl
 0x21024D54 T uip9028pl_DrainWriteBuffer
 0x21024D64 T uip9028pl_InitUsbAtx
@@ -67667,6 +67664,8 @@
 0x2106BC7C T osd_camera_hotkey_timer_10sec
 0x2106BE40 T osd_camera_hotkey_viewfinder_noicon
 0x2106BF30 T a_img_bin_CCD_UNIFIED_IMG_HOTKEY_BRIGHTNESS_MINUS_SK_common_
+0x2106C048 M mcc_mp_open_req
+0x2106C1FC M mcc_mp_stop_req
 0x2106CA94 T aMp3_setbgmvolu
 0x2106CAB4 T aMp5bgm_c
 0x2106CAC0 T aMp3_iscurfil_0
@@ -67696,6 +67695,7 @@
 0x2106E208 T aMcc_mpa_check_
 0x2106E4E8 T mcc_mpa_initialized_getkey
 0x2106E678 T mcc_mpa_no_file_getkey
+0x2106E808 M mcc_mpa_refresh_progress_contents_info
 0x2106E908 T aMcc_mpa_paus_0
 0x2106EA00 T aMcc_mpa_togg_2
 0x2106EC64 T aMcc_mpa_set__0
@@ -67703,6 +67703,7 @@
 0x2106EE5C T aMcc_mpa_av_k_0
 0x2106EEE4 T aMcc_mpa_av_res
 0x2106EF2C T aMcc_mpa_av_sto
+0x2106EF40 M mcc_mpa_av_jump_next_BGM
 0x2106F114 T aMcc_mpa_av_jum
 0x2106F18C T aMcc_mpa_error_
 0x2106F3E4 T mpa_skin1_effect_classic
@@ -69949,6 +69950,7 @@
 0x210D7618 T aLkoem71timer_c
 0x210D7628 T aLkoem71_vibt_4
 0x210D7668 T aDateD_m_y02d_0
+0x210D76F8 M mcc_lk_main_menu
 0x210D7A08 T aMcc_lk_keylo_2
 0x210D7BC8 T set02_popup_confirm_01
 0x210D7D12 T set02_popup_information_01
@@ -78849,7 +78851,6 @@
 0x2130DB70 T jpt_2150510A
 0x2130DC1C T CheckMultitapTable
 0x2130DCDC T CheckSeqAttribInfo
-0x210D76F8 M mcc_lk_main_menu
 0x2130DD4C T CheckSwitchOffState
 0x2130DE40 T ClientClearText
 0x2130DF44 T CmGetX509CertSubjectPuKeyInfo
@@ -82193,6 +82194,7 @@
 0x214170A4 T lk24_9MMITransitionEffectGetSrcDstPos
 0x214171A4 T lk25_2GetColorSkin
 0x214171CC T jpt_212067B2
+0x21417390 T lk25_41GetUCS3Brightness
 0x21417480 T TSVGDocument_ReadViewportInfo
 0x2141748C T lk2_20_init_editor
 0x214176B4 T lk2_21_stop_editor
@@ -82241,7 +82243,6 @@
 0x2141A9C4 T lk_DisplayMenu2LIneListItemWildButton
 0x2141AE60 T lk_DisplayMenuBackground
 0x2141AE88 T lk_DisplayMenuOsdPopup
-0x2141E36C D lk_GetCurFocusIndex
 0x2141B1E4 T lk_DisplayMenuPopup2ListItem
 0x2141BB7C T lk_DisplayMyMenu
 0x2141C290 T lk_DisplayRoundCorner
@@ -82257,6 +82258,7 @@
 0x2141E15C T lk_FontInit
 0x2141E330 T lk_Get2ndIndicatorType
 0x2141E340 T jpt_2019D432
+0x2141E36C D lk_GetCurFocusIndex
 0x2141E370 T lk_GetFirstDspMenuIndexInMenuStack
 0x2141E3C4 T lk_GetCurrentEditor_Format
 0x2141E3D8 T lk_GetCurrentEditor_T9MenuMode
@@ -85730,6 +85732,7 @@
 0x214F4F6C T aPb4_displaysel
 0x214F4F8C T aSelect_one_ent
 0x214F4FB0 T aSelectFromCall
+0x214F5004 D pb_icontable
 0x214F59D0 T gs_MpaImageTableBin
 0x214F59DC T icon_pb_fax
 0x214F5A50 T icon_pb_other_default
@@ -86527,6 +86530,7 @@
 0x21507308 T mcc_mpa_disp_player
 0x21507A00 T mcc_mpa_my_album_options_change_order_done
 0x21507AB0 T mcc_mms_debugging_postcard_service
+0x21507E1C M mcc_mpa_filelist_down
 0x21507E7C T mcc_mpa_opened_getkey
 0x21508328 T aMcc_mpa_toggle
 0x215084A0 T aMcc_mpa_togg_1
@@ -90742,6 +90746,7 @@
 0x2166EB88 T aGet_pngIconFil
 0x2166EBA8 T aGetIconFilePat
 0x2166EBD0 T aOpenJarFileFai
+0x2166EC78 D SG_SJAVA_imagetable
 0x2166ECF8 T s_Ani_OGM_kvm_close
 0x21670224 T t_B_IDI_JAVA_IMG_OGM_ONon_04
 0x21672408 T t_B_IDI_JAVA_IMG_OGM_ONon_05
@@ -98853,9 +98858,6 @@
 0x2178400A T fopen
 0x2178406C T _initio
 0x2178413A T _terminateio
-0x214F5004 D pb_icontable
-0x21507E1C M mcc_mpa_filelist_down
-0x2166EC78 D SG_SJAVA_imagetable
 0x2178418C T strncpy
 0x21784204 T vfprintf
 0x21784228 T __16setjmp
@@ -103811,6 +103813,7 @@
 0x219111B4 T set14_6DualstbMenu
 0x21911468 T set2_153StopSoundOnEarjackUnplugged
 0x21911514 T set2_167GetDefaultWallpaperImageFullpath
+0x2191166C T set2_202GetSlaveSimIcon
 0x219116C8 T set2_GetIncomingCallPath
 0x21911904 T set2_GetRingtoneExtension
 0x21911958 T set2_GetRingtoneLabel
@@ -104665,7 +104668,6 @@
 0x2193E5A4 T jpt_2021CBCA
 0x2193EC7C T ucs0_4if
 0x2193EC9C T ucs0_6menu
-0x2191166C T set2_202GetSlaveSimIcon
 0x2193ED94 T ucs2_32MakeMenuBackground
 0x2193EE28 T ucs2_3GetTheme
 0x2193EF04 T smlLibMemcmp
@@ -106852,12 +106854,14 @@
 0x21999DCC T a_img_bin_CCD_UNIFIED_IMG_HOTKEY_VIEWFINDER_FULL_MODE_SK_common_
 0x21999E5C T s_img_h_ui_skin_data_CCD_UNIFIED_IMG_SHOT_TIMER_2_SEC_ICON
 0x21999E68 T a_img_bin_CCD_UNIFIED_IMG_HOTKEY_VIEWFINDER_FULL_MODE_WITH_INDICATOR_common_
+0x2199A010 M mcc_mp_play_req
 0x2199A60C T mcc_aoc_return_menu
 0x2199A76C T aMcc_mp_auto_ma
 0x2199AB38 T mcc_mpa_options_open_album_list_options_rename
 0x2199AC48 T mcc_mpa_my_album_options
 0x2199AC58 T mcc_pb_cl_dialled_calls_known_number_option
 0x2199B080 T mcc_mpa_play_getkey
+0x2199B270 M mcc_mpa_get_contents_info
 0x2199B610 T aMcc_quietmode_
 0x2199B7C4 T aMcc_mpa_c_bgm_
 0x2199B840 T aMpa2_mobieqmod
@@ -109821,6 +109825,7 @@
 0x21A043B8 T aIdle_op14_10_i
 0x21A043DA T aIdle_op14_12_i
 0x21A043FC T aIdle_op14_14_i
+0x21A04430 M mcc_lk_return_menu_01
 0x21A044D4 T mcc_lk_confirm_offline_mode
 0x21A04560 T a1Mcc_disp_alar
 0x21A0458C T a2Mcc_disp_alar
@@ -113784,9 +113789,6 @@
 0x21B9A7F4 T cSlim_EditorType_Input
 0x21B9EA74 T SG_FBOX_imagetable
 0x21B9F3D0 T cSlim_base64_rev
-0x2199A010 M mcc_mp_play_req
-0x2199B270 M mcc_mpa_get_contents_info
-0x21A04430 M mcc_lk_return_menu_01
 0x300104E4 D TFS4FsDirs
 0x30016D8D D gv_DualSIMStatus
 0x30016D90 T p_mes
@@ -113810,6 +113812,7 @@
 0x304A8B50 D Isize
 0x304A8B52 D Ibit_size
 0x304A8B53 D Iversion
+0x304A906C D gs_MMITransitionEffect
 0x304AE900 D gv_DspMenuInEditor
 0x304AE916 T fx_pos
 0x304AE918 T fy_pos
@@ -113818,6 +113821,7 @@
 0x304AE91E T f_font
 0x304AE920 T f_color
 0x304AE922 D gs_TransColor
+0x304AE934 D gs_DspMenu
 0x304AEB44 D gs_DspFocus
 0x304AEC3C D ga_GraphicBuffer2
 0x304CB200 D ga_GraphicBuffer
@@ -113844,4 +113848,3 @@
 0x30671A7C D v_upv_ModuleId
 0x30671AA4 D v_upv_LineNumber
 0x30671ABC D a_upv_FileName
-
